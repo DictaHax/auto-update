@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "downloadUrl": "",
+  "version": "16.8",
+  "downloadUrl": "https://raw.githubusercontent.com/DictaHax/auto-update/main/MobiusLoader.exe",
   "sha256": "",
   "forceUpdate": false,
   "message": "New update is available."
