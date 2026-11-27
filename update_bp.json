@@ -1,7 +1,7 @@
 {
   "version": "3.0",
-  "downloadUrl": "https://raw.githubusercontent.com/DictaHax/auto-update/main/MobiusCMD.exe",
-  "sha256": "",
+  "downloadUrl": "https://glowdiary.store/MOBIUS/Update/MobiusCMD.exe",
+  "sha256": "4cafbd463a823f9da71e9e70053f9e81ff78b0118275016435872e2f306f46f1",
   "forceUpdate": false,
   "message": "New update is available."
 }
