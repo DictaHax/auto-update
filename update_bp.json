@@ -1,7 +1,7 @@
 {
   "version": "3.0",
   "downloadUrl": "https://github.com/DictaHax/auto-update/raw/refs/heads/main/MobiusCMD.exe",
-  "sha256": "bd3148dadaff9a30e0cb4149ef64f2c8cd8dfb2f8eca041465fff57221a1f86e",
+  "sha256": "",
   "forceUpdate": false,
   "message": "New update is available."
 }
